@@ -19,9 +19,11 @@ A aplicação deverá consumir a API de testes disponível em [https://deividfor
 
 Como é uma API bastante simples e intuitiva, praticamente todos os atributos de cada recurso serão utilizados.
 
-Além da listagem de itens, a aplicação deverá ter a opção de favoritar veículos, onde o histórico de itens favoritados deve ser salvo localmente via Local Storage ou SQLite.
-
 Você deverá seguir o layout disponível em [Link do layout no Figma](https://www.figma.com/file/QcRcGmlvWQOHPnLmjdWkvE/FipeCar---Teste-Dev-RN-pl?node-id=462%3A1241)
+
+A navegação inicia com uma lista de marcas, quando uma marca é selecionada exibe os modelos da marca, quando seleciona um modelo é exibido um popup com os anos disponíveis daquele modelo e quando seleciona o ano é exibido os detalhes do veículo (A navegação está documentada no Figma).
+
+Além da listagem de itens, a aplicação deverá ter a opção de favoritar veículos, onde o histórico de itens favoritados deve ser salvo localmente via Local Storage ou SQLite.
 
 ⚠️ &nbsp;Caso não consiga completar 100% do teste, envie-nos mesmo assim e comente no email quais foram as dificuldades e analisaremos seu teste ;)
 
@@ -54,7 +56,9 @@ Caso escolha seguir usando ferramentas diferentes das sugestões, não tem probl
 Além do seu código, avaliaremos também alguns outros pontos que podem ser mais subjetivos, como por exemplo:
 
 - Organização do código
-- Reaproveitamente
+- Abstração e entendimento
+- Documentação
+- Reaproveitamento
 - Usabilidade
 - Lógica utilizada
 - Criatividade
