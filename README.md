@@ -25,6 +25,8 @@ A navegação inicia com uma lista de marcas, quando uma marca é selecionada ex
 
 Além da listagem de itens, a aplicação deverá ter a opção de favoritar veículos, onde o histórico de itens favoritados deve ser salvo localmente via Local Storage ou SQLite.
 
+A aplicação deve ter suporte para tema escuro ("dark mode"), persistindo a escolha de tema do usuário.
+
 ⚠️ &nbsp;Caso não consiga completar 100% do teste, envie-nos mesmo assim e comente no email quais foram as dificuldades e analisaremos seu teste ;)
 
 ## História do usuário
